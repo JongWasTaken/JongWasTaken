@@ -1,3 +1,4 @@
-i do csharp stuff.
+I do C# stuff.
+Sometimes JS too.
 
-and sometimes js.
+(Most of my repositories are private, sorry.)
