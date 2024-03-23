@@ -1,5 +1,4 @@
-I do C# stuff.  
-Sometimes JS too.  
-For some reason most of my repos use Python though...  
+German hobbyist programmer with experience in C#, JavaScript, Python and Java.  
+Currently trying out Minecraft modding.
   
-(Most of my work is private, I only use this account for personal projects.)
+(This account is only used for personal projects.)
