@@ -4,7 +4,7 @@ Currently invested in Minecraft modding, specifically porting Forge mods to the 
   
 This account is only used for personal projects.
 ### Languages
-I consider myself rather proficient in all of these languages:
+I consider myself proficient in all of these languages:
 - C#
   - My favorite programming language
 - Java
@@ -12,7 +12,7 @@ I consider myself rather proficient in all of these languages:
 - Python
   - Mostly used for prototyping and scripting
 - JavaScript
-  - Mainly because of [easympv](https://github.com/JongWasTaken/easympv)
+  - Mainly because of [easympv](https://github.com/JongWasTaken/easympv), which only supports ES5!
 ### Links
 #### Social
 - [Twitter](https://x.com/jongwastaken)
