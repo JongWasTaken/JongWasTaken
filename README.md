@@ -1,6 +1,6 @@
 ### About
 23 year old hobbyist programmer from Germany.  
-Currently invested in Minecraft modding, specifically porting Forge mods to the Fabric platform.  
+Currently invested in Minecraft modding, specifically porting Forge mods to the Fabric platform as well as server-side Fabric mods.  
   
 This account is only used for personal projects.
 
