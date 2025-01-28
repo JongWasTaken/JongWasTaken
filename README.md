@@ -31,8 +31,9 @@ I consider myself proficient in all of these languages:
   - I **HATE** web frameworks! Real websites use raw HTML+CSS+JS! Everything else is a mental illness.
 ### Links
 #### Social
+- [BlueSky](https://bsky.app/profile/jong.smto.dev)
 - [Twitter](https://x.com/jongwastaken)
-- [E-Mail](mailto:contact@smto.pw)
+- [E-Mail](mailto:contact@smto.dev)
 - [AniList](https://anilist.co/user/JongWasTaken/)
 #### Minecraft
 - [Modrinth](https://modrinth.com/user/Jong)
