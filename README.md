@@ -1,5 +1,5 @@
 ### About
-22 year old hobbyist programmer from Germany.  
+23 year old hobbyist programmer from Germany.  
 Currently invested in Minecraft modding, specifically porting Forge mods to the Fabric platform.  
   
 This account is only used for personal projects.
@@ -7,11 +7,12 @@ This account is only used for personal projects.
 ### Major Projects
 |Project|Maintained|Notes|
 |-|-|-|
-|[Construction Wand (Fabric)](https://github.com/JongWasTaken/ConstructionWand-Fabric)|✅|Keeps getting improvements, always up-to-date.|
-|[Baubley Heart Canisters (Fabric)](https://github.com/JongWasTaken/Baubley-Heart-Canisters-Fabric)|⏸️|1.21 update stalled.|
-|[More Tools (Fabric/Polymer)](https://github.com/JongWasTaken/moretools)|✅|Finished for now, though I do have more ideas...|
-|[Book2Map (Fabric/Polymer)](https://github.com/JongWasTaken/book2map)|✅|Feature-complete, will only be updated for newer Minecraft versions.|
-|[ClickOpener (Fabric)](https://github.com/JongWasTaken/clickopener)|✅|Picked up.|
+|[Construction Wand (Fabric)](https://github.com/JongWasTaken/ConstructionWand-Fabric)|✅|_none_|
+|[Baubley Heart Canisters (Fabric)](https://github.com/JongWasTaken/Baubley-Heart-Canisters-Fabric)|⏸️|No motivation. If anybody wants to take over please message me!|
+|[More Tools (Fabric/Polymer)](https://github.com/JongWasTaken/moretools)|✅|Feature-complete|
+|[More Furnaces (Fabric/Polymer)](https://github.com/JongWasTaken/morefurnaces)|✅|Feature-complete?|
+|[Book2Map (Fabric/Polymer)](https://github.com/JongWasTaken/book2map)|✅|Feature-complete|
+|[ClickOpenerContinued (Fabric)](https://github.com/JongWasTaken/clickopener)|✅|Fork, created with permission.|
 |[easympv](https://github.com/JongWasTaken/easympv)|✅|In infinite development.|
 
 
