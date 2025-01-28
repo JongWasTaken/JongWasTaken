@@ -27,7 +27,8 @@ I consider myself proficient in all of these languages:
 - Python
   - Mostly used for prototyping and scripting
 - JavaScript
-  - Mainly because of [easympv](https://github.com/JongWasTaken/easympv), which only supports ES5! I kinda dislike web-development...
+  - Mainly because of [easympv](https://github.com/JongWasTaken/easympv), which only supports ES5!
+  - I **HATE** web frameworks! Real websites use raw HTML+CSS+JS! Everything else is a mental illness.
 ### Links
 #### Social
 - [Twitter](https://x.com/jongwastaken)
