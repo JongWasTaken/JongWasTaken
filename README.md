@@ -10,7 +10,7 @@ This account is only used for personal projects.
 |[Construction Wand (Fabric)](https://github.com/JongWasTaken/ConstructionWand-Fabric)|1.21.4|✅||
 |[Baubley Heart Canisters (Fabric)](https://github.com/JongWasTaken/Baubley-Heart-Canisters-Fabric)|1.20.1|⏸️|No motivation. If anybody wants to take over please message me!|
 |[More Tools (Fabric/Polymer)](https://github.com/JongWasTaken/moretools)|1.21.4|✅|Feature-complete|
-|[More Furnaces (Fabric/Polymer)](https://github.com/JongWasTaken/morefurnaces)|1.21.3|✅|Feature-complete?|
+|[More Furnaces (Fabric/Polymer)](https://github.com/JongWasTaken/morefurnaces)|1.21.4|✅|Feature-complete?|
 |[Book2Map (Fabric/Polymer)](https://github.com/JongWasTaken/book2map)|1.21.4|✅|Feature-complete|
 |[ClickOpenerContinued (Fabric)](https://github.com/JongWasTaken/clickopener)|1.21.4|✅|Fork, created with permission.|
 
