@@ -4,7 +4,8 @@ Currently invested in Minecraft modding, specifically porting Forge mods to the 
   
 This account is only used for personal projects.
 
-### Minecraft Projects
+### Projects
+#### Minecraft
 |Project|Minecraft Version|Maintained|Notes|
 |-|-|-|-|
 |[Construction Wand (Fabric)](https://github.com/JongWasTaken/ConstructionWand-Fabric)|1.21.4|✅||
@@ -14,7 +15,7 @@ This account is only used for personal projects.
 |[ClickOpenerContinued (Fabric)](https://github.com/JongWasTaken/clickopener)|1.21.4|✅|Fork, created with permission.|
 |[Baubley Heart Canisters (Fabric)](https://github.com/JongWasTaken/Baubley-Heart-Canisters-Fabric)|1.20.1|⏸️|No motivation. If anybody wants to take over please message me!|
 
-### Other Projects
+#### Other
 |Project|Maintained|Notes|
 |-|-|-|
 |[easympv](https://github.com/JongWasTaken/easympv)|✅|In infinite development.|
