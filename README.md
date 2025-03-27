@@ -8,7 +8,7 @@ This account is only used for personal projects.
 #### Minecraft
 |Project|Minecraft Version|Maintained|Notes|
 |-|-|-|-|
-|[Construction Wand (Fabric)](https://github.com/JongWasTaken/ConstructionWand-Fabric)|1.21.4|✅|1.21.5: waiting on Forge Config API|
+|[Construction Wand (Fabric)](https://github.com/JongWasTaken/ConstructionWand-Fabric)|1.21.5|✅||
 |[More Tools (Fabric/Polymer)](https://github.com/JongWasTaken/moretools)|1.21.5|✅|Feature-complete|
 |[More Furnaces (Fabric/Polymer)](https://github.com/JongWasTaken/morefurnaces)|1.21.5|✅|Feature-complete?|
 |[Book2Map (Fabric/Polymer)](https://github.com/JongWasTaken/book2map)|1.21.4|✅|Feature-complete, port waiting on MapCanvasAPI|
