@@ -32,7 +32,8 @@ I consider myself proficient in all of these languages:
   - Mostly used for prototyping and scripting
 - JavaScript
   - Mainly because of [easympv](https://github.com/JongWasTaken/easympv), which only supports ES5!
-  - I **HATE** web frameworks! Real websites use raw HTML+CSS+JS! [Everything else is ridiculus.](https://motherfuckingwebsite.com/) (HTMX gets a pass...)
+  - I **HATE** web frameworks! Real websites use raw HTML+CSS+JS! [Everything else is ridiculus.](https://motherfuckingwebsite.com/)
+  - HTMX gets a pass because their Twitter guy is funny
 ### Links
 #### Social
 - [BlueSky](https://bsky.app/profile/jong.smto.dev)
