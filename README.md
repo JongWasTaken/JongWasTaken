@@ -2,7 +2,9 @@
 23 year old hobbyist programmer from Germany.  
 Currently invested in Minecraft modding.
   
-This account is only used for personal projects.
+This account is only used for personal projects.  
+
+You can commission me [here](https://smto.dev/commission).
 
 ### Projects
 #### Minecraft
