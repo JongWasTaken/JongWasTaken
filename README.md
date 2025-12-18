@@ -4,8 +4,6 @@ Currently invested in Minecraft modding.
   
 This account is only used for personal projects.  
 
-You can commission me [here](https://smto.dev/commission).
-
 ### Projects
 #### Minecraft
 |Project|Minecraft Version|Maintained|Notes|
