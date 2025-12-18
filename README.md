@@ -34,6 +34,9 @@ I consider myself proficient in all of these languages:
   - Mainly because of [easympv](https://github.com/JongWasTaken/easympv), which only supports ES5!
   - I **DISLIKE** web frameworks! A good website does not need more than raw HTML+CSS+JS! [Everything else is ridiculus.](https://motherfuckingwebsite.com/)
   - HTMX gets a pass because their Twitter guy is funny
+  
+I also have some experience with Lua, C and TypeScript.  
+
 ### Links
 #### Social
 - [BlueSky](https://bsky.app/profile/jong.smto.dev)
