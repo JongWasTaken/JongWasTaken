@@ -14,7 +14,7 @@ This account is only used for personal projects.
 |[More Mechanics (Fabric/Polymer)](https://github.com/JongWasTaken/moremechanics)|unreleased|✅|WIP|
 |[ServerTraders](https://github.com/JongWasTaken/servertraders)|1.21.6|✅|Feature-complete|
 |[Book2Map (Fabric/Polymer)](https://github.com/JongWasTaken/book2map)|1.21.6|✅|Feature-complete|
-|[ClickOpenerContinued (Fabric)](https://github.com/JongWasTaken/clickopener)|1.21.6|✅|Fork, created with permission.|
+|[ClickOpenerContinued (Fabric)](https://github.com/JongWasTaken/clickopener)|1.21.10|✅|Fork, created with permission.|
 |[Baubley Heart Canisters (Fabric)](https://github.com/JongWasTaken/Baubley-Heart-Canisters-Fabric)|1.20.1|⏸️|No motivation. This mod was originally done for learning-purposes only. If anybody wants to take over you may fork it.|
 
 #### Other
