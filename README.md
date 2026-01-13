@@ -8,7 +8,7 @@ This account is only used for personal projects.
 #### Minecraft
 |Project|Minecraft Version|Maintained|Notes|
 |-|-|-|-|
-|[Construction Wand (Fabric)](https://github.com/JongWasTaken/ConstructionWand-Fabric)|1.21.6|✅||
+|[Construction Wand (Fabric)](https://github.com/JongWasTaken/ConstructionWand-Fabric)|1.21.11|✅||
 |[More Tools (Fabric/Polymer)](https://github.com/JongWasTaken/moretools)|1.21.6|✅|Feature-complete|
 |[More Furnaces (Fabric/Polymer)](https://github.com/JongWasTaken/morefurnaces)|1.21.6|✅|Feature-complete|
 |[More Mechanics (Fabric/Polymer)](https://github.com/JongWasTaken/moremechanics)|unreleased|✅|WIP|
