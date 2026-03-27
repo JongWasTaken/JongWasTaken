@@ -28,6 +28,7 @@ I consider myself proficient in all of these languages:
   - My favorite programming language
 - Java
   - My most used language due to my focus on Minecraft
+  - I refuse to touch Kotlin though, that language is built upon bad ideas
 - Python
   - Mostly used for prototyping and scripting
 - JavaScript
