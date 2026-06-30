@@ -39,9 +39,7 @@ I also have some experience with Lua, C and TypeScript.
 ### Links
 #### Social
 - [BlueSky](https://bsky.app/profile/jong.smto.dev)
-- [Twitter](https://x.com/jongwastaken)
 - [E-Mail](mailto:contact@smto.dev)
-- [AniList](https://anilist.co/user/JongWasTaken/)
 #### Minecraft
 - [Modrinth](https://modrinth.com/user/Jong)
 - [CurseForge](https://www.curseforge.com/members/jongwastaken/projects)
