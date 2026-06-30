@@ -28,13 +28,14 @@ I consider myself proficient in all of these languages:
   - My favorite programming language
 - Java
   - My most used language due to my focus on Minecraft
-  - I refuse to touch Kotlin though, that language is built upon bad ideas
+  - I refuse to touch Kotlin though, that language feels like an illegal lovechild between Java and Python
 - Python
   - Mostly used for prototyping and scripting
+  - I find its syntax annoying to work with for larger projects
 - JavaScript
-  - Mainly because of [easympv](https://github.com/JongWasTaken/easympv), which only supports ES5!
+  - Mainly because of [easympv](https://github.com/JongWasTaken/easympv), which only supports ES5 (pain)
   
-I also have some experience with Lua, C and TypeScript.  
+I also have experience with Lua, C and TypeScript.  
 
 ### Links
 #### Social
