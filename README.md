@@ -9,7 +9,7 @@ This account is only used for personal projects.
 |Project|Minecraft Version|Maintained|Notes|
 |-|-|-|-|
 |[Construction Wand (Fabric)](https://github.com/JongWasTaken/ConstructionWand-Fabric)|26.2|✅||
-|[More Tools (Fabric/Polymer)](https://github.com/JongWasTaken/moretools)|26.2|✅|Feature-complete|
+|[More Tools (Fabric/Polymer)](https://github.com/JongWasTaken/moretools)|26.3|✅|Feature-complete|
 |[More Furnaces (Fabric/Polymer)](https://github.com/JongWasTaken/morefurnaces)|26.2|✅|Feature-complete|
 |[ServerTraders](https://github.com/JongWasTaken/servertraders)|26.2|✅|Feature-complete|
 |[Book2Map (Fabric/Polymer)](https://github.com/JongWasTaken/book2map)|26.2|✅|Feature-complete|
